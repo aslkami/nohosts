@@ -1,8 +1,8 @@
 {
-  "name": "whistle.nohost-imweb",
+  "name": "nohost-imwebtest",
   "version": "1.0.0",
   "description": "连接 nohost 的 whistle 插件",
-  "pluginHomepage": "http://imweb.nohost.pro:8080",
+  "pluginHomepage": "http://www.fatezero.ml:8080",
   "whistleConfig": {
     "priority": 100
   },
